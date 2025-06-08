@@ -1,0 +1,23 @@
+[
+  {
+    "source_id": "ChIJvZQ2pXynGkcRW9VVxLG7EYg",
+    "name": "Biedronka",
+    "category": "Biedronka",
+    "formatted_address": "4,2(489)",
+    "phone_number": "+48800080010",
+    "source_url": "https://www.google.com/maps/place/Biedronka/data=!4m7!3m6!1s0x471aa77ca53694bd:0x8811bbb1c455d55b!8m2!3d51.3775428!4d17.8348956!16s%2Fg%2F11j4vc2vmd!19sChIJvZQ2pXynGkcRW9VVxLG7EYg?authuser=0&hl=tr&rclk=1",
+    "website_url": "https://www.biedronka.pl/pl?utm_source=gmb",
+    "rating_text": "4,2",
+    "stars": null,
+    "number_of_reviews": null,
+    "price_level": "",
+    "open_hours": "",
+    "extraction_timestamp": "2025-06-07T17:24:13.474Z",
+    "source_name": "google",
+    "source_query": "Irrigation Equipment",
+    "source_country": "PL",
+    "country": "Poland",
+    "state": "Greater Poland Voivodeship",
+    "city": "Kobyla Góra"
+  }
+]
